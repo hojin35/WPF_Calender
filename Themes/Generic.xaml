@@ -1,0 +1,9 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WPF_Calender">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/WPF_Calender;component/Themes/Units/LoadingAnimation.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
